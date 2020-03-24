@@ -47,8 +47,36 @@
                 </tr>
             </table>
         </fieldset>
-        <fieldset style="background-color: rgb(238, 255, 0);"></fieldset>
-        <fieldset style="background-color: rgb(233, 6, 6);"></fieldset>
+        <fieldset style="background-color: rgb(238, 255, 0);">
+            <legend style="border: 1px solid black; background-color: white;">Forma de acceso</legend>
+            <ul style="list-style-type: none;">
+                <li><input type="radio" name="modo" value="directo">Directo
+                    <ul style="list-style-type: none;">
+                        <li><input type="radio" name="etapa" value="logse"/>Bachillerato <input type="text" name="logse2"></li>
+                        <li><input type="radio" name="etapa" value="experimental"/>Experimental</li>
+                        <li><input type="radio" name="etapa" value="cou"/>COU <input type="text" name="cou2"></li>
+                        <li><input type="radio" name="etapa" value="fp2"/>FP2</li>
+                        <li<input type="radio" name="etapa" value="otros"/>Otros(especifique) <input type="text" name="otros2"></li>
+                    </ul>
+                </li>
+                <li><input type="radio" name="modo" prueba>Prueba Libre</li>
+            </ul>
+        </fieldset>
+        <fieldset style="background-color: rgb(233, 6, 6);">
+            <legend style="border: 1px solid black; background-color: white;">Documentos</legend>
+            <table>
+                <tr>
+                    <td><input type="checkbox" name="docs" value="dni">Fotocopia del dni</td>
+                    <td><input type="checkbox" name="docs" value="certificado">Certificado</td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <input type="checkbox" name="docs" value="otros"/>
+                        <input type="text"/>
+                    </td>
+                </tr>
+            </table>
+        </fieldset>
         <p>
             <input type="submit" value="Enviar solicitud"> 
     </form>
