@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio Formulario</title>
+</head>
+<body>
+    <h1 style="text-align: center;">Hoja de inscripción</h1>
+    <h1 style="text-align: center;">En los ciclos formativos de grado superior</h1>
+    <form action="">
+        <fieldset style="background-color: #BBBBBB;">
+            <table>
+                <tr>
+                    <td><label for="nombre">Nombre:</label></td>
+                    <td><label for="apellidos">Apellidos:</label></td>
+                    <td><label for="dni">DNI:</label></td>
+                </tr>
+                <tr>
+                    <td><input type="text" name="nombre"/></td>
+                    <td><input type="text" name="apellidos"/></td>
+                    <td><input type="text" name="dni"/></td>
+                </tr>
+                <tr>
+                    <td><label for="localidad">Localidad de nacimiento:</label></td>
+                    <td><label for="provincia">Provincia:</label></td>
+                    <td><label for="fecha">Fecha de nacimiento:</label></td>
+                </tr>
+                <tr>
+                    <td><input type="text" name="localidad"></td>
+                    <td>
+                        <select name="provincia">
+                            <option>Huelva</option>
+                            <option>Sevilla</option>
+                            <option>Murcia</option>
+                        </select>
+                    </td>
+                    <td><input type="date" name="fecha"></td>
+                </tr>
+                <tr>
+                    <td colspan="2"><label for="direccion">Direccion:</label></td>
+                    <td><label for="codpostal">Código postal:</label></td>
+                </tr>
+                <tr>
+                    <td colspan="2"><input type="text" name="direccion"></td>
+                    <td><input type="text" name="codpostal"></td>
+                </tr>
+            </table>
+        </fieldset>
+        <fieldset style="background-color: rgb(238, 255, 0);"></fieldset>
+        <fieldset style="background-color: rgb(233, 6, 6);"></fieldset>
+        <p>
+            <input type="submit" value="Enviar solicitud"> 
+    </form>
+</body>
+</html>

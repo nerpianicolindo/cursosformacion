@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f33bd858-1f1b-4fec-9441-358fff1c4475" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/vue2" />
+  </component>
+  <component name="ProjectId" id="1ZDegy32VIVtzn3RK0iQQv2JMo9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../curso-vue-openwebinars" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f33bd858-1f1b-4fec-9441-358fff1c4475" name="Default Changelist" comment="" />
+      <created>1584378206344</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584378206344</updated>
+      <workItem from="1584378208072" duration="1318000" />
+      <workItem from="1584431327044" duration="3014000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1413" y="31" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584436153530">
+      <screen x="1280" y="0" width="1280" height="720" />
+    </state>
+    <state x="1413" y="31" key="#com.intellij.execution.impl.EditConfigurationsDialog/1280.0.1280.720/0.27.1280.693@1280.0.1280.720" timestamp="1584436153530" />
+    <state x="1738" y="131" width="424" height="491" key="FileChooserDialogImpl" timestamp="1584436654329">
+      <screen x="1280" y="0" width="1280" height="720" />
+    </state>
+    <state x="1738" y="131" width="424" height="491" key="FileChooserDialogImpl/1280.0.1280.720/0.27.1280.693@1280.0.1280.720" timestamp="1584436654329" />
+    <state width="1187" height="157" key="GridCell.Tab.0.bottom" timestamp="1584436657428">
+      <screen x="1280" y="0" width="1280" height="720" />
+    </state>
+    <state width="1187" height="157" key="GridCell.Tab.0.bottom/1280.0.1280.720/0.27.1280.693@1280.0.1280.720" timestamp="1584436657428" />
+    <state width="1187" height="157" key="GridCell.Tab.0.center" timestamp="1584436657427">
+      <screen x="1280" y="0" width="1280" height="720" />
+    </state>
+    <state width="1187" height="157" key="GridCell.Tab.0.center/1280.0.1280.720/0.27.1280.693@1280.0.1280.720" timestamp="1584436657427" />
+    <state width="1187" height="157" key="GridCell.Tab.0.left" timestamp="1584436657427">
+      <screen x="1280" y="0" width="1280" height="720" />
+    </state>
+    <state width="1187" height="157" key="GridCell.Tab.0.left/1280.0.1280.720/0.27.1280.693@1280.0.1280.720" timestamp="1584436657427" />
+    <state width="1187" height="157" key="GridCell.Tab.0.right" timestamp="1584436657427">
+      <screen x="1280" y="0" width="1280" height="720" />
+    </state>
+    <state width="1187" height="157" key="GridCell.Tab.0.right/1280.0.1280.720/0.27.1280.693@1280.0.1280.720" timestamp="1584436657427" />
+  </component>
+</project>
